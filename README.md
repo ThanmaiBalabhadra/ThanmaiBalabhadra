@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanmaibalabhadra&label=Profile%20views&color=0e75b6&style=flat" alt="thanmaibalabhadra" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working oning on ****Full Stack web Development****
+- 🔭 I’m currently working on ****Full Stack web Development****
 
 - 🌱 I’m currently learning **Gen AI,Django,vue.js**
 
@@ -16,15 +14,12 @@
 
 - 📫 How to reach me **thanmai.balabhadra@sasi.ac.in**
 
+- 📄 Know about my experiences [https://github.com/ThanmaiBalabhadra/Resume/blob/main/Thanmai607.pdf](https://github.com/ThanmaiBalabhadra/Resume/blob/main/Thanmai607.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thanmai balabhadra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanmai balabhadra" height="30" width="40" /></a>
-<a href="https://kaggle.com/thanmaibalabhadra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thanmaibalabhadra" height="30" width="40" /></a>
-<a href="https://instagram.com/thanmai_balabhadra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thanmai_balabhadra" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/thanmai03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thanmai03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thanmai balabhadra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thanmai balabhadra" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thanmaibalabhadra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thanmaibalabhadra" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/thanmaibalabhadra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="thanmaibalabhadra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
