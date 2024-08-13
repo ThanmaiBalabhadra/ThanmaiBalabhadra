@@ -13,10 +13,9 @@
 
 - 📫 How to reach me **thanmai.balabhadra@sasi.ac.in**
 
-- https://www.bing.com/ck/a?!&&p=71c319669a697ff2JmltdHM9MTcyMzQyMDgwMCZpZ3VpZD0zZDM0MWNkZC01ZTdiLTZiMWUtMGJmNi0wODEyNWZjOTZhNDUmaW5zaWQ9NTU4OA&ptn=3&ver=2&hsh=3&fclid=3d341cdd-5e7b-6b1e-0bf6-08125fc96a45&u=a1L2ltYWdlcy9zZWFyY2g_cT1saW5rZWRpbiUyMGxvZ28mRk9STT1JUUZSQkEmaWQ9RjU0M0M4QTBDRDUyMTA3RkM4NTJGRDAyQjQxOTAzQjExRTdBQUNCQg&ntb=1 **https://www.linkedin.com/in/thanmai-balabhadra-135879277**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/thanmai-balabhadra-135879277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanmai-balabhadra-135879277" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/thanmai03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thanmai03" height="30" width="40" /></a>
 </p>
 
