@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thanmai.balabhadra@sasi.ac.in**
 
-- 📄 Know about my experiences (https://thanmaiportfolio.netlify.app/)
+- 📄 Know about my experiences [https://thanmaiportfolio.netlify.app/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
