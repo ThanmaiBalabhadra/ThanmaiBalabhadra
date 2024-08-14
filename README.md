@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thanmai.balabhadra@sasi.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PZFSjybZdIu1Y_MsLGPA3tBXVDfIQFeb/view?usp=drivesdk](https://drive.google.com/file/d/1PZFSjybZdIu1Y_MsLGPA3tBXVDfIQFeb/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PZFSjybZdIu1Y_MsLGPA3tBXVDfIQFeb/view?usp=drivesdk](https://pdflink.to/thanmairesume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
