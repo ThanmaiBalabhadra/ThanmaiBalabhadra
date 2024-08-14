@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm Thanmai Balabhadra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanmaibalabhadra&label=Profile%20views&color=0e75b6&style=flat" alt="thanmaibalabhadra" /> </p>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanmaibalabhadra&label=Profile%20views&color=0e75b6&style=flat" alt="thanmaibalabhadra" /> </p>
+
 - 🔭 I’m currently working on ****Full Stack web Development****
 
 - 🌱 I’m currently learning **Gen AI,Django,vue.js**
 
 - 👯 I’m looking to collaborate on **front-end development as intern**
 
+- 👨‍💻 All of my projects are available at [https://thanmaiportfolio.netlify.app/](https://thanmaiportfolio.netlify.app/)
+
 - 💬 Ask me about **Html,Css,Js,Linux,Python**
 
 - 📫 How to reach me **thanmai.balabhadra@sasi.ac.in**
 
-- 📄 About me **https://pdflink.to/thanmairesume/**
- 
-- ⚡ Fun fact I am Funny
+- 📄 About me [https://pdflink.to/thanmairesume/](https://pdflink.to/thanmairesume/)
+
+- ⚡ Fun fact **I am Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thanmai-balabhadra-135879277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanmai-balabhadra-135879277" height="30" width="40" /></a>
