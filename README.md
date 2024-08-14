@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://thanmaiportfolio.netlify.app/](https://thanmaiportfolio.netlify.app/)
 
-- 💬 Ask me about **Html,Css,Js,Linux,Python**
+- 💬 Ask me about **Html,CSS,Js,Linux,Python**
 
 - 📫 How to reach me **thanmai.balabhadra@sasi.ac.in**
 
