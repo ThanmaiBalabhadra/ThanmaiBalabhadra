@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **thanmai.balabhadra@sasi.ac.in**
 
-- 📄 About me **(https://pdflink.to/thanmairesume/)**
+- 📄 About me **https://pdflink.to/thanmairesume/**
 
 - ⚡ Fun fact **I am Funny**
 
