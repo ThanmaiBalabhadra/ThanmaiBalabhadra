@@ -8,14 +8,14 @@
 - 🌱 I’m currently learning **Gen AI,Django,vue.js**
 
 - 👯 I’m looking to collaborate on **front-end development as intern**
-
-- 👨‍💻 All of my projects are available at **https://thanmaiportfolio.netlify.app/**
-
+ 
 - 💬 Ask me about **Html,CSS,Js,Linux,Python**
 
 - 📫 How to reach me **thanmai.balabhadra@sasi.ac.in**
 
 - 📄 About me **https://pdflink.to/thanmairesume/**
+
+- 👨‍💻 All of my projects are available at **https://thanmaiportfolio.netlify.app/**
 
 - ⚡ Fun fact **I am Funny**
 
