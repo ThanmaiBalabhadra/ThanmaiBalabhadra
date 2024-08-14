@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **front-end development as intern**
 
-- 👨‍💻 All of my projects are available at [https://thanmaiportfolio.netlify.app/](https://thanmaiportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at **https://thanmaiportfolio.netlify.app/**
 
 - 💬 Ask me about **Html,CSS,Js,Linux,Python**
 
