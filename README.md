@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thanmai.balabhadra@sasi.ac.in**
 
-- 📄 About me **https://pdflink.to/thanmairesume/**
+- 📄 About me **https://pdflink.to/resume607/**
 
 - 👨‍💻 All of my projects are available at **https://thanmaiportfolio.netlify.app/**
 
