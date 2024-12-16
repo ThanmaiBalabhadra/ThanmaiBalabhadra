@@ -13,10 +13,6 @@
 
 - 📫 How to reach me **thanmai.balabhadra@sasi.ac.in**
 
-- 📄 About me **https://pdflink.to/resume607/**
-
-- 👨‍💻 All of my projects are available at **https://thanmaiportfolio.netlify.app/**
-
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
